@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Tibor Kecskeméti, studying as a computer programming engineer at the college department of the University of Szeged in Hungary. Additionally, I am taking a private course in junior software testing. Currently, I am learning object-oriented programming in C# and creating client-side web applications in JavaScript. I am also studying database management using MySQL. I speak English fluently and have intermediate-level writing skills in English. I have basic knowledge of German and French languages.
+I am Tibor Kecskeméti, studying as a computer programming engineer at the college department of the University of Szeged in Hungary. Additionally, I am taking a private course in junior software testing. Currently, I am learning object-oriented programming in C# and creating client-side web applications in JavaScript. I am also studying database management using MySQL, Python, Hadoop, Apache Spark and Docker technologies. I speak English fluently and have intermediate-level writing skills in English. I have basic knowledge of German language.
 
 
 ## 🌐 Socials:
